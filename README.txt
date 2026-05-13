@@ -1,3 +1,28 @@
+# 🛠️ BDEVIL-DoS-Tool
+
+```bash
+FOR WINDOWS 
+
+install folder
+and type cmd
+pip install colorama
+pip install requests
+pip install pyqt5
+and click
+main.py
+
+
+
+```bash
+FOR LINUX
+
+git clone https://github.com/username/BDEVIL-DoS-Tool.git
+cd BDEVIL-DoS-Tool
+pip install -r requirements.txt
+python main.py
+
+
+
 ⚠️ SORUMLULUK BEYANI
 
 Bu araç yalnızca eğitim, test ve siber güvenlik farkındalığı amacıyla geliştirilmiştir. 
