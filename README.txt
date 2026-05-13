@@ -1,6 +1,6 @@
 # 🛠️ BDEVIL-DoS-Tool
 
-```bash
+
 FOR WINDOWS 
 
 install folder
@@ -12,8 +12,6 @@ and click
 main.py
 
 
-
-```bash
 FOR LINUX
 
 git clone https://github.com/username/BDEVIL-DoS-Tool.git
